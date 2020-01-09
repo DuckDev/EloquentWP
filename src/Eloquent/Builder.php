@@ -1,5 +1,5 @@
 <?php
-namespace WeDevs\ORM\Eloquent;
+namespace DuckDev\EloquentWP\Eloquent;
 
 use Illuminate\Database\Query\Builder as EloquentBuilder;
 

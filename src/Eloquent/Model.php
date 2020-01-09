@@ -1,5 +1,5 @@
 <?php
-namespace WeDevs\ORM\Eloquent;
+namespace DuckDev\EloquentWP\Eloquent;
 
 use Illuminate\Database\Eloquent\Model as Eloquent;
 

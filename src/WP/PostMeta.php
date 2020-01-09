@@ -1,9 +1,9 @@
 <?php
 
-namespace WeDevs\ORM\WP;
+namespace DuckDev\EloquentWP\WP;
 
 
-use WeDevs\ORM\Eloquent\Model;
+use DuckDev\EloquentWP\Eloquent\Model;
 
 class PostMeta extends Model
 {

@@ -1,8 +1,8 @@
 {
     "name": "duckdev/eloquentwp",
-    "description": "Eloquent ORM for WordPress",
+    "description": "Eloquent ORM for WordPress database tables including custom tables.",
     "keywords": ["wordpress", "plugin", "orm", "eloquent", "sql"],
-    "homepage": "https://github.com/tareq1988/wp-eloquent",
+    "homepage": "https://github.com/duckdev/eloquentwp",
     "require": {
         "illuminate/database": "^5.4",
         "illuminate/pagination": "^5.4"
@@ -10,13 +10,17 @@
     "license": "GPL-2.0-or-later",
     "authors": [
         {
+            "name": "Joel James",
+            "email": "me@joelsays.com"
+        },
+        {
             "name": "Tareq Hasan",
             "email": "tareq@wedevs.com"
         }
     ],
     "autoload" : {
       "psr-4" : {
-        "WeDevs\\ORM\\": "src/"
+        "DuckDev\\EloquentWP\\": "src/"
       }
     }
 }

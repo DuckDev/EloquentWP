@@ -1,9 +1,9 @@
 <?php
 
-namespace WeDevs\ORM\WP;
+namespace DuckDev\ORM\WP;
 
 
-use WeDevs\ORM\Eloquent\Model;
+use DuckDev\EloquentWP\Eloquent\Model;
 
 class UserMeta extends Model
 {

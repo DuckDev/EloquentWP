@@ -1,9 +1,9 @@
 <?php
 
-namespace WeDevs\ORM\Eloquent\Facades;
+namespace DuckDev\EloquentWP\Eloquent\Facades;
 
 use Illuminate\Support\Facades\Facade;
-use WeDevs\ORM\Eloquent\Database;
+use DuckDev\EloquentWP\Eloquent\Database;
 
 /**
  * @see \Illuminate\Database\DatabaseManager
