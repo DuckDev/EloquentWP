@@ -1,5 +1,5 @@
 {
-    "name": "duckdev/eloquentwp",
+    "name": "duckdev/EloquentWP",
     "description": "Eloquent ORM for WordPress database tables including custom tables.",
     "keywords": ["wordpress", "plugin", "orm", "eloquent", "sql"],
     "homepage": "https://github.com/duckdev/eloquentwp",
